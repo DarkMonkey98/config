@@ -7,7 +7,7 @@ autoexec can be executed automatically by putting "+exec autoexec.cfg" in your l
 
 
 typing "exec prac" in console will set settings to practice mode
-"exec prac2" will finish practice settings that need to be typed after game is restared such as "god"
+"exec prac2" will finish practice settings that need to be typed after game is restarted, such as "god"
 
 
 typing "exec boost" will let you control bots specifically to test boost/run boost spots
